@@ -3,3 +3,4 @@
 - [The Game of Life](./game_of_life.py)
 - [Binary Search](./binary_search.py)
 - [Union Find](./union_find.py)
+- [Some XOR tricks](./that_xor_trick.py) based on [this article](https://florian.github.io//xor-trick/).
